@@ -1,5 +1,6 @@
 <?php
 /*
+	Error 100	Vua Error
 	Error 101	No data send
 	Error 102	No MODE
 	Error 103	Invalid MODE
